@@ -1,0 +1,11 @@
+O CMMI (Capability Maturity Model - Integration ou Modelo de Maturidade em Capacitação - Integração) é um modelo de referência que contém práticas (Genéricas ou Específicas) necessárias à maturidade em disciplinas específicas (Systems Engineering (SE - Engenharia de Sistemas), Software Engineering (SW - Engenharia de Software), Integrated Product and Process Development (IPPD - Desenvolvimento Integrado de Processo e Produto), Supplier Sourcing (SS)). Desenvolvido pelo SEI (Software Engineering Institute) da Universidade Carnegie Mellon, o CMMI é uma evolução do CMM e procura estabelecer um modelo único para o processo de melhoria corporativo, integrando diferentes modelos e disciplinas.
+
+O CMMI foi baseado nas melhores práticas para desenvolvimento e manutenção de produtos. Há uma ênfase tanto em engenharia de sistemas quanto em engenharia de software, e há uma integração necessária para o desenvolvimento e a manutenção.
+
+A versão atual do CMMI (versão 1.3) foi publicada em 27 de outubro de 2010 e apresenta três modelos:
+
+    CMMI for Development (CMMI-DEV), voltado ao processo de desenvolvimento de produtos e serviços.
+    CMMI for Acquisition (CMMI-ACQ), voltado aos processos de aquisição e terceirização de bens e serviços.
+    CMMI for Services (CMMI-SVC), voltado aos processos de empresas prestadoras de serviços.
+
+Uma das premissas do modelo é "A qualidade é influenciada pelo processo", e seu foco é "Melhorar processo de uma empresa".
